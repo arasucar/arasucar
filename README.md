@@ -6,7 +6,7 @@ I am a Full Stack Engineer with a heavy focus on **Frontend Architecture** and *
 
 Currently, I'm building high-performance applications using **TypeScript, React and Next.js**.
 
-Trying out new stuff with **Supabase and C++**
+Trying out new stuff on the side with **Supabase and C++**
 
 ---
 
