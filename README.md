@@ -25,8 +25,8 @@ Trying out new stuff with **Supabase and C++**
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Backend & DevOps**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -43,16 +43,8 @@ Here are a few things I've accomplished recently:
 
 ---
 
-### 📊 GitHub Stats
-
-![Aras's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arasucar&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arasucar&layout=compact&theme=radical&hide_border=true)
-
----
-
 ### 📫 Connect with Me
 
 - **LinkedIn:** [linkedin.com/in/arasucar](https://www.linkedin.com/in/arasucar)
 - **Email:** [arasucar@icloud.com](mailto:arasucar@icloud.com)
-- **Portfolio:** [My Portfolio](portfolio-tawny-phi-54.vercel.app)
+- **Portfolio:** [My Portfolio](https://portfolio-tawny-phi-54.vercel.app)
