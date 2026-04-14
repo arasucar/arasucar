@@ -17,12 +17,22 @@ I am especially interested in:
 
 ---
 
+### Selected Impact
+
+- **Bayes Esports:** Led a public website overhaul with **Next.js**, server-side rendering, code splitting, caching, and stronger test coverage. The result felt almost **2x faster** to stakeholders and contributed to roughly **20% growth in organic reach**.
+- **Bayes Esports:** Designed a shared React/TypeScript component library that reduced UI defects by **30%** and improved delivery consistency across teams.
+- **Xerini:** Built a geospatial visualization platform capable of rendering **200M+ data points** on the web for data-heavy product workflows.
+- **Medicasimple:** Integrated payment and invoice provider APIs to support operational workflows in a healthcare product environment.
+
+---
+
 ### What I Bring
 
 - Deep experience with **TypeScript, React, Next.js, state management, component systems, and frontend scalability**
 - Strong focus on **performance optimization, maintainability, and user experience**
-- Comfort working across the stack when needed, especially with **Node.js, APIs, and product integrations**
-- A collaborative style built around **clear communication, ownership, and unblocking others**
+- Strong product engineering instincts in **SaaS and fast-moving team environments**
+- Comfort working across the stack when needed, especially with **Node.js, APIs, integrations, and frontend-backend collaboration**
+- A collaborative style built around **clear technical communication, ownership, mentoring, and unblocking others**
 
 ---
 
