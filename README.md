@@ -1,50 +1,51 @@
-# Hi there, I'm Aras! 👋
+# Hi, I'm Aras Ucar
 
-### Senior Software Engineer based in Berlin 🇩🇪
+### Senior Frontend Engineer based in Berlin
 
-I am a Full Stack Engineer with a heavy focus on **Frontend Architecture** and **Performance Optimization**. I specialize in building scalable component libraries, optimizing legacy codebases, and rendering massive datasets (200M+ points!) on the web.
+I build fast, scalable product experiences with **TypeScript, React, and Next.js**.
+Most of my work sits at the intersection of **frontend architecture, performance, design systems, and product delivery**.
 
-Currently, I'm building high-performance applications using **TypeScript, React and Next.js**.
+I enjoy joining small teams, taking ownership of messy frontend problems, documenting technical decisions, and helping move ideas from concept to production without losing quality.
 
-Trying out new stuff on the side with **Supabase and C++**
+I am especially interested in:
+
+- building clean, durable frontend architecture for SaaS products
+- improving Core Web Vitals, page speed, and browser performance
+- collaborating closely with product, design, and backend teams
+- using AI coding tools and automation to ship faster without lowering the bar
+- contributing to thoughtful, developer-friendly open-source software
 
 ---
 
-### 🛠 Tech Stack
+### What I Bring
 
-**Languages**
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+- Deep experience with **TypeScript, React, Next.js, state management, component systems, and frontend scalability**
+- Strong focus on **performance optimization, maintainability, and user experience**
+- Comfort working across the stack when needed, especially with **Node.js, APIs, and product integrations**
+- A collaborative style built around **clear communication, ownership, and unblocking others**
+
+---
+
+### Tech
 
 **Frontend**
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![RTK Query](https://img.shields.io/badge/RTK%20Query-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Backend & DevOps**
+**Backend and Platform**
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-### 🚀 Highlights & Experience
-
-Here are a few things I've accomplished recently:
-
-- **Bayes Esports:** Designed a shared React/TS component library that reduced UI defects by **30%** and improved dev velocity. Also led optimization initiatives that cut initial load times by **40%**.
-- **Kahuna:** Architected and delivered two production MVPs in 6 months, including an artist scouting platform integrating Spotify & YouTube APIs.
-- **Xerini:** Built a geospatial visualization platform capable of rendering **200M+ data points** using PostGIS and batched rendering.
-- **Medicasimple:** Engineered a node-based graphical workflow engine that reduced treatment setup time by **50%**.
-
----
-
-### 📫 Connect with Me
+### Connect
 
 - **LinkedIn:** [linkedin.com/in/arasucar](https://www.linkedin.com/in/arasucar)
 - **Email:** [arasucar@icloud.com](mailto:arasucar@icloud.com)
-- **Portfolio:** [My Portfolio](https://portfolio-tawny-phi-54.vercel.app)
+- **Portfolio:** [https://portfolio.rxstud.io](https://portfolio.rxstud.io)
