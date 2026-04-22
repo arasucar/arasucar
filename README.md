@@ -42,8 +42,10 @@ reflect the transformative impact that AI has already begun to introduce.
 
 ---
 
-### Current Projects
+### Live Apps
 
+- **[Potrfolio](https://portfolio.rxstud.io)** - Portfolio with other live
+  products and contact details.
 - **[Voyage](https://voyage.rxstud.io)** — Personalized flight
   deal monitoring platform. Multi-repo (API, web, mobile); Node.js/TypeScript
   with BullMQ background workers; SerpApi + Duffel dual-provider strategy.
