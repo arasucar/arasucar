@@ -2,14 +2,16 @@
 
 ### Senior Full-Stack Engineer based in Berlin
 
-I build production applications end-to-end — **React/TypeScript** frontend,
-**Node.js, Kotlin/Spring Boot** backend, and cloud infrastructure on
-**AWS and Azure**. Most of my work sits at the intersection of
+I build production applications end-to-end — with **React/TypeScript** 
+frontend, **Node.js, Java/Spring Boot** backend, and cloud infrastructure like
+on **AWS or Azure**. Most of my work sits at the intersection of
 **full-stack architecture, performance, and AI-assisted delivery**.
 
-A feature scoped for two sprints at Bayes — shipped in three days with
-**Claude Code**. That's the kind of leverage I'm invested in bringing to every
-team I work with.
+With the help of agentic workflows, I can now serve my live products directly 
+from my physical machine and my own domain. This approach is highly effective, 
+as these systems operate with a level of autonomy that allows them to identify 
+and resolve their own issues. The future of software engineering will inevitably 
+reflect the transformative impact that AI has already begun to introduce.
 
 ---
 
@@ -27,9 +29,6 @@ team I work with.
 
 ### Selected Impact
 
-- **Bayes Esports:** Shipped a feature originally scoped for two sprints in
-  **three days** by introducing Claude Code agent workflows, custom configs,
-  and CLAUDE.md context engineering across the team.
 - **Bayes Esports:** Built a shared React/TypeScript component library adopted
   across multiple production apps — **30% reduction in UI defects**.
 - **Bayes Esports:** Next.js SSR rebuild improved LCP by **40%** and grew
