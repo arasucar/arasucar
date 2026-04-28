@@ -2,55 +2,55 @@
 
 ### Senior Full-Stack Engineer based in Berlin
 
-I build production applications end-to-end — with **React/TypeScript** 
-frontend, **Node.js, Java/Spring Boot** backend, and cloud infrastructure like
-on **AWS or Azure**. Most of my work sits at the intersection of
-**full-stack architecture, performance, and AI-assisted delivery**.
+I build production applications end-to-end with **React**, **Next.js**,
+**TypeScript**, **Node.js/NestJS**, **Java/Spring Boot**, REST APIs, and
+cloud infrastructure on **AWS** and **Azure**.
 
-With the help of agentic workflows, I can now serve my live products directly 
-from my physical machine and my own domain. This approach is highly effective, 
-as these systems operate with a level of autonomy that allows them to identify 
-and resolve their own issues. The future of software engineering will inevitably 
-reflect the transformative impact that AI has already begun to introduce.
+My strongest overlap is frontend architecture and product delivery: component
+systems, rendering performance, Core Web Vitals, API contracts, testing, and
+production monitoring. I also use AI-assisted development workflows to compress
+delivery cycles without lowering the engineering bar.
 
 ---
 
 ### What I focus on
 
-- Full-stack ownership from schema design to production monitoring
-- Frontend architecture, Core Web Vitals, and rendering performance
-- Backend query optimisation, REST API design, and background job systems
-- AI-assisted development workflows — agent configuration, CLAUDE.md context
-  engineering, MCP tool integration
-- Clean component systems and design systems that scale across teams
-- Helping teams ship faster without lowering the bar
+- React, Next.js, and TypeScript applications at production scale
+- Frontend architecture, component systems, and design systems
+- Core Web Vitals, code splitting, caching, and rendering performance
+- Full-stack ownership from data model and REST API design to production monitoring
+- Backend services with Node.js/NestJS, Java/Spring Boot, MongoDB, and background jobs
+- CI/CD, Docker, AWS/Azure infrastructure, Sentry, and end-to-end testing
+- AI-assisted development with Claude Code, Cursor, Codex CLI, agent configuration, context engineering, and MCP tooling
 
 ---
 
 ### Selected Impact
 
-- **Bayes Esports:** Built a shared React/TypeScript component library adopted
-  across multiple production apps — **30% reduction in UI defects**.
-- **Bayes Esports:** Next.js SSR rebuild improved LCP by **40%** and grew
-  organic traffic by **20%**.
-- **Xerini:** Built a geospatial platform end-to-end (React + OpenLayers
-  frontend, Kotlin/Spring Boot backend, PostGIS) capable of rendering
-  **200M+ data points** in the browser.
-- **Kahuna:** Delivered music technology products for rights workflows,
-  royalty reporting, and artist discovery — full-stack across React,
-  TypeScript, Python, AWS, Docker, and Kubernetes.
+- **Bayes Esports:** Designed and implemented a shared **React/TypeScript**
+  component and hooks library adopted across multiple production applications,
+  reducing UI defects by **30%**.
+- **Bayes Esports:** Led frontend performance work with **RTK Query**, code
+  splitting, and caching strategies, reducing initial load times by **40%**.
+- **Bayes Esports:** Rebuilt the public website with **Next.js SSR**, improving
+  LCP by **40%** and increasing organic traffic by **20%**.
+- **Xerini:** Built a geospatial data platform end-to-end with a
+  **React/TypeScript + OpenLayers** frontend and **Kotlin/Spring Boot** backend,
+  enabling real-time exploration of **200M+ data points**.
+- **Kahuna:** Built music technology products for rights workflows, royalty
+  reporting, and artist discovery across **React**, **TypeScript**, **Python**,
+  **AWS**, **Docker**, and **Kubernetes**.
 
 ---
 
 ### Live Apps
 
-- **[Potrfolio](https://portfolio.rxstud.io)** - Portfolio with other live
+- **[Portfolio](https://portfolio.rxstud.io)** - Portfolio with selected
   products and contact details.
-- **[Voyage](https://voyage.rxstud.io)** — Personalized flight
-  deal monitoring platform. Multi-repo (API, web, mobile); Node.js/TypeScript
-  with BullMQ background workers; SerpApi + Duffel dual-provider strategy.
-  Built solo end-to-end with AI-assisted development.
-- **[Vault](https://vault.rxstud.io)** — A secure operations workspace for
+- **[Voyage](https://voyage.rxstud.io)** - Personalized flight deal monitoring
+  platform. Multi-repo product across API, web, and mobile; built with
+  Node.js/TypeScript, BullMQ workers, and SerpApi + Duffel provider integration.
+- **[Vault](https://vault.rxstud.io)** - Secure operations workspace for
   managing environment configuration, protected credentials, and release
   handoffs.
 
@@ -74,6 +74,13 @@ reflect the transformative impact that AI has already begun to introduce.
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+
+**Quality & Workflow**
+
+[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://www.cypress.io/)
+[![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev/)
+[![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)](https://sentry.io/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 
 ---
 
