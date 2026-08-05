@@ -1,6 +1,6 @@
 # Hi, I'm Aras Ucar
 
-### Senior Full-Stack Engineer based in Berlin
+### Software Engineer based in Berlin
 
 I build production applications end-to-end with **React**, **Next.js**,
 **TypeScript**, **Node.js/NestJS**, **Java/Spring Boot**, REST APIs, and
