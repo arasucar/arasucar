@@ -1,15 +1,10 @@
 # Hi, I'm Aras Ucar
 
-### Software Engineer based in Berlin
-
-I build production applications end-to-end with **React**, **Next.js**,
-**TypeScript**, **Node.js/NestJS**, **Java/Spring Boot**, REST APIs, and
-cloud infrastructure on **AWS** and **Azure**.
-
-My strongest overlap is frontend architecture and product delivery: component
-systems, rendering performance, Core Web Vitals, API contracts, testing, and
-production monitoring. I also use AI-assisted development workflows to compress
-delivery cycles without lowering the engineering bar.
+Software engineer experienced in shipping production applications end‐to‐end across frontend, back‐
+end, and cloud infrastructure. Recent work centers on React and TypeScript frontends paired with
+Node.js, REST API design, and CI/CD ownership. Product‐minded, with ownership from data model
+to interface, experience mentoring engineers, and a pragmatic approach to AI‐assisted development
+that accelerates delivery without sacrificing code quality.
 
 ---
 
@@ -21,26 +16,8 @@ delivery cycles without lowering the engineering bar.
 - Full-stack ownership from data model and REST API design to production monitoring
 - Backend services with Node.js/NestJS, Java/Spring Boot, MongoDB, and background jobs
 - CI/CD, Docker, AWS/Azure infrastructure, Sentry, and end-to-end testing
-- AI-assisted development with Claude Code, Cursor, Codex CLI, agent configuration, context engineering, and MCP tooling
-
----
-
-### Selected Impact
-
-- **Bayes Esports:** Designed and implemented a shared **React/TypeScript**
-  component and hooks library adopted across multiple production applications,
-  reducing UI defects by **30%**.
-- **Bayes Esports:** Led frontend performance work with **RTK Query**, code
-  splitting, and caching strategies, reducing initial load times by **40%**.
-- **Bayes Esports:** Rebuilt the public website with **Next.js SSR**, improving
-  LCP by **40%** and increasing organic traffic by **20%**.
-- **Xerini:** Built a geospatial data platform end-to-end with a
-  **React/TypeScript + OpenLayers** frontend and **Kotlin/Spring Boot** backend,
-  enabling real-time exploration of **200M+ data points**.
-- **Kahuna:** Built music technology products for rights workflows, royalty
-  reporting, and artist discovery across **React**, **TypeScript**, **Python**,
-  **AWS**, **Docker**, and **Kubernetes**.
-
+- AI assisted & automated development with Claude Code, Cursor, Codex CLI, agent configuration, context engineering, and MCP tooling
+  
 ---
 
 ### Live Apps
