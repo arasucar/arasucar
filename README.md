@@ -16,20 +16,7 @@ that accelerates delivery without sacrificing code quality.
 - Full-stack ownership from data model and REST API design to production monitoring
 - Backend services with Node.js/NestJS, Java/Spring Boot, MongoDB, and background jobs
 - CI/CD, Docker, AWS/Azure infrastructure, Sentry, and end-to-end testing
-- AI assisted & automated development with Claude Code, Cursor, Codex CLI, agent configuration, context engineering, and MCP tooling
-  
----
-
-### Live Apps
-
-- **[Portfolio](https://portfolio.rxstud.io)** - Portfolio with selected
-  products and contact details.
-- **[Voyage](https://voyage.rxstud.io)** - Personalized flight deal monitoring
-  platform. Multi-repo product across API, web, and mobile; built with
-  Node.js/TypeScript, BullMQ workers, and SerpApi + Duffel provider integration.
-- **[Vault](https://vault.rxstud.io)** - Secure operations workspace for
-  managing environment configuration, protected credentials, and release
-  handoffs.
+- AI assisted & automated development with Codex, agent configuration, context engineering, and MCP tooling
 
 ---
 
