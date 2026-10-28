@@ -50,6 +50,5 @@ that accelerates delivery without sacrificing code quality.
 
 ### Connect
 
-- **Portfolio:** [portfolio.rxstud.io](https://portfolio.rxstud.io)
 - **LinkedIn:** [linkedin.com/in/arasucar](https://www.linkedin.com/in/arasucar)
 - **Email:** [arasucar@icloud.com](mailto:arasucar@icloud.com)
